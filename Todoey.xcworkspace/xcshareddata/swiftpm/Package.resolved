@@ -1,0 +1,42 @@
+{
+  "originHash" : "d38b1e3d6f051a0542aec03c92e4c789eaf68afeefe239f29e4991eb1fea7f31",
+  "pins" : [
+    {
+      "identity" : "coolcolourlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/richard243/CoolColourLibrary.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "80de9b8afe3b0656b2133f3b9bc9bc8d52cf4d0f"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "c2552e1d36867cb42b28130e894a81fc17081062",
+        "version" : "14.12.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "9815e6c29d43cb5314add5dff8705c5476ab556c",
+        "version" : "10.53.0"
+      }
+    },
+    {
+      "identity" : "swipecellkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwipeCellKit/SwipeCellKit.git",
+      "state" : {
+        "revision" : "7219cad3098637176ace311510d11467dbfb9bb0",
+        "version" : "2.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}
